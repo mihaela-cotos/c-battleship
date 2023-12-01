@@ -21,3 +21,9 @@ The information about planes is stored in a generic array *void* **info*, in ord
 ## Tools
 
 In ***planes.c*** are stored the implemented functions for drawing each type of planes by their size and direction, also the functions to detect the obstacles.
+
+## Build
+
+You can run this program on your machine using make build command. 
+
+You can find some input samples in utils/.
